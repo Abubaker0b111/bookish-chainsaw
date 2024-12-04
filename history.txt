@@ -1,0 +1,16 @@
+
+user1 [
+	Cooking_oil(1-litre)	Ckicken(1-kg) ;
+	Mouse	Bread ;
+	Pastery ;
+]
+user2 [
+	Bread	Cake	Eyeliner ;
+]
+Abubaker [
+	Mouse ;
+	Milk(1-litre) ;
+	Cake	Cake	Cake	Cake	Cake	Cake	Cake	Cake	Cake	Cake ;
+	Flour(1-kg) ;
+	Mouse ;
+]
